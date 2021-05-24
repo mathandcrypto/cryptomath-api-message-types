@@ -1,0 +1,20 @@
+{
+  "name": "cryptomath-api-message-types",
+  "version": "1.0.0",
+  "description": "Typescript types for messages between microservices",
+  "types": "types/index.d.ts",
+  "scripts": {
+    "test": "dtslint types",
+    "lint": "dtslint types",
+    "prettier": "prettier"
+  },
+  "author": "@mathandcrypto",
+  "devDependencies": {
+    "dtslint": "latest",
+    "prettier": "2.3.0",
+    "typescript": "next"
+  },
+  "engines": {
+    "node": ">= 10.13.0"
+  }
+}
