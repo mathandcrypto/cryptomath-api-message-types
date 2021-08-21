@@ -1,6 +1,7 @@
 {
   "name": "@cryptomath/cryptomath-api-message-types",
-  "version": "1.0.0",
+  "repository": "https://github.com/mathandcrypto/cryptomath-api-message-types",
+  "version": "1.0.1",
   "description": "Typescript types for messages between microservices",
   "types": "types/index.d.ts",
   "scripts": {
